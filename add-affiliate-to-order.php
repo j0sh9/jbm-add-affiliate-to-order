@@ -3,7 +3,7 @@
 Plugin Name: Add Affiliate to Order
 Description: Add afifliate info to $order variable and admin edit order screen.
 Author: Josh Buchanan
-Version: 0.9
+Version: 0.0.9
 */
 
 // Add a new checkout field
