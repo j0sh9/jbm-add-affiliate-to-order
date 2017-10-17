@@ -1,9 +1,9 @@
 <?php
 /**
-Plugin Name: _Add Affiliate to Order
-Description: Add Referral info admin edit order screen.
-Author: Josh Buchanan
-Version: 2.0.0
+*Plugin Name: _Add Affiliate to Order
+*Description: Add Referral info admin edit order screen.
+*Author: Josh Buchanan
+*Version: 2.0.0
 */
 
 // display the extra data in the order admin panel
