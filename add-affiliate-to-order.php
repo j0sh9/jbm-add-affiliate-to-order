@@ -1,9 +1,11 @@
 <?php
 /**
-*Plugin Name: _Add Affiliate to Order
-*Description: Add Referral info admin edit order screen.
-*Author: Josh Buchanan
-*Version: 2.0.0
+ * Plugin Name: _Add Affiliate to Order
+ * Plugin URI: https://isodiol.com
+ * Description: Add Referral info admin edit order screen.
+ * Author: Iso International
+ * Author URI: https://isodiol.com
+ * Version: 2.0.0
 */
 
 // display the extra data in the order admin panel
@@ -214,3 +216,4 @@ function affid_save_extra_details( $post_id, $post ){
 		update_user_meta($customer_id, 'affwp_lc_affiliate_id', $affiliate_select_id);
 	return;
 }
+?>
